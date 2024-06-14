@@ -1,5 +1,6 @@
 ---
 title: 'Installation of Shopware'
+author: 'Su'
 ---
 
 # Introduction

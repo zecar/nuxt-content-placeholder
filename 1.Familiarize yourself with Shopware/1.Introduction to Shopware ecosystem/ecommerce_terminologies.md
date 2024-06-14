@@ -1,5 +1,6 @@
 ---
 title: 'E-commerce terminologies'
+author: 'Su'
 ---
 
 # eCommerce Terminologies
