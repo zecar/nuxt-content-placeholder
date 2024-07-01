@@ -1,4 +1,5 @@
 ---
+title: 'Page title'
 navigation:
   title: 'Title in navigation'
 ---
