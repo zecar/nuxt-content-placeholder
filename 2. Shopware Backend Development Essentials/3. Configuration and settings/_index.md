@@ -1,6 +1,6 @@
 ---
-title: 'Installation of Shopware'
-author: 'Su'
+title: 'Configuration and settings'
+author: 'Micha Hobert'
 ---
 
 # Introduction

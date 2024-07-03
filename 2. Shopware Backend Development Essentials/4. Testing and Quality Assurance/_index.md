@@ -1,6 +1,6 @@
 ---
-title: 'Installation of Shopware'
-author: 'Su'
+title: 'Testing and Quality Assurance'
+author: 'Micha Hobert'
 ---
 
 # Introduction
