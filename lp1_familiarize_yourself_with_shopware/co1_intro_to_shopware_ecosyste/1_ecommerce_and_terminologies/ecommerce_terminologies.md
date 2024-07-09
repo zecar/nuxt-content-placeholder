@@ -3,6 +3,8 @@ title: 'E-commerce terminologies'
 author: 'Su'
 ---
 
+::youtube-embed(link="https://www.youtube.com/watch?v=bcyu7RuXqMQ") ::
+
 # eCommerce Terminologies
 
 Entering the eCommerce development world can be overwhelming due to the sheer number of terminologies and concepts you'll need to grasp. Here's a list of must-know eCommerce terminologies for you.
