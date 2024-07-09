@@ -3,7 +3,8 @@ title: 'Installation of Shopware on MacOS'
 author: 'Su'
 ---
 
-![installation](https://www.youtube.com/watch?v=Ajy0kfdjSlw)
+::youtube-embed(link="https://www.youtube.com/watch?v=bcyu7RuXqMQ")
+::
 
 # Introduction
 
