@@ -3,10 +3,7 @@ title: 'E-commerce terminologies'
 author: 'Su'
 ---
 
-::youtube-embed
----
-link: https://www.youtube.com/watch?v=bcyu7RuXqMQ
----
+::youtube-embed(link="https://www.youtube.com/watch?v=bcyu7RuXqMQ")
 ::
 
 # eCommerce Terminologies
