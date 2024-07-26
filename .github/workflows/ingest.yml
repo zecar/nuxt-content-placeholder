@@ -1,0 +1,38 @@
+name: Send to Academy
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+    inputs: {}
+
+#  push:
+#    branches:
+#      - main
+#  pull_request:
+#    branches:
+#      - main
+
+jobs:
+
+  embed-docs:
+    name: Embed docs
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Zip folder
+        run: |
+          zip -q -r content.zip . -x \*/.github/\*
+          
+          echo "Uploading documents"
+          curl -v \
+            --fail-with-body \
+            -F content=@content.zip \
+            -H "X-Shopware-Api-Key: test" \
+            "https://hub-beta.shopware.com/api/academy/ingest"
+          
+          echo "Documents uploaded"
