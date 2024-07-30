@@ -6,4 +6,4 @@ curl -v \
 --insecure \
 -F content=@content.zip \
 -H "X-Shopware-Api-Key: test" \
-"http://localhost:3000/api/academy/ingest"
+"http://localhost:3000/api/academy/ingest?dry=1"
