@@ -9,9 +9,7 @@ visibility: "public"
 
 # Shopware plans
 
-Since Shopware is a open-source product. It starts with a free plan, the Commercial plan. Then there are paid plans such as Rise, Evolve and Beyond. 
-
-It is an open-source platform that focuses on the customer experience. The quality of the software is high and meets the highest requirements of design and technology. Shopware developers are still trying to personalize the website experience. Shopware has some editions, which are - Community Edition, Rise, Evolve and Beyond.
+Since Shopware is a open-source product, it starts with a free plan. The quality of the software is high and meets the highest requirements of design and technology. Shopware has editions - Community Edition, which is a free plan while rest are paid plans - Rise, Evolve and Beyond.
 
 ## Shopware Licensing Structure
 
@@ -43,6 +41,6 @@ It is an open-source platform that focuses on the customer experience. The quali
 - Features: Full suite of advanced features, custom developments, and highly scalable solutions.
 - Support: Dedicated account managers, premium support, and extensive consulting services.
 
-For more details on these plans refer to the [document](https://www.shopware.com/en/pricing/)
+For more details on these plans, refer to the [document](https://www.shopware.com/en/pricing/)
 
-On going through the plan propositon, TechniWorld has opted to go for Shopware Rise plan. While this discussion is going on, lets understand TechnoWorld's requiremnt on what distribution model are they looking for. To know what these distrivbution models are, refer to the next learning unit.
+On going through the plan propositon, TechnoWorld has opts for Shopware Rise plan. While this discussion is going on, lets understand TechnoWorld's requirement on what distribution model are they looking for. To know what these distribution models are, refer to the next learning unit.

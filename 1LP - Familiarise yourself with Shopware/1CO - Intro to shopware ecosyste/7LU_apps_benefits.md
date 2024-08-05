@@ -9,8 +9,6 @@ visibility: "public"
 
 # Why you should app ?
 
-TechGadz, a forward-thinking online retailer specializing in cutting-edge gadgets, is committed to enhancing its e-commerce platform to cater to tech enthusiasts worldwide. Having adopted Shopware, they are leveraging innovative apps to revolutionize their online store.
-
 The introduction of Shopware apps has revolutionized the landscape for merchants and agencies alike. Traditionally, creating extensions tailored to specific shops or small client groups meant developing plugins, standard practice within the Shopware ecosystem. However, with the advent of the app system, new possibilities have emerged beyond plugins.
 
 Shopware's move towards cloud services reflects broader trends in technology adoption, where reliance on self-managed solutions is giving way to the convenience and scalability offered by cloud platforms. The Shopware cloud, built on open-source principles, mirrors the flexibility of its self-managed counterpart, now enhanced by private apps for deeper customization.
