@@ -1,3 +1,12 @@
+---
+title: "Shopware plans"
+slug: "shopware-plans"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Shopware plans
 
 Since Shopware is a open-source product. It starts with a free plan, the Commercial plan. Then there are paid plans such as Rise, Evolve and Beyond. 

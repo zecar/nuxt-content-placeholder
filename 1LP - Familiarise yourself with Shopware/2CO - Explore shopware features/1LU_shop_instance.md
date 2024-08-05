@@ -1,3 +1,12 @@
+---
+title: ""
+slug: ""
+description: ""
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Discovering Shopware Features
 
 Welcome to the Shopware exploration journey! You have been granted a 30-day test instance to delve into Shopware's powerful features. Begin by accessing your environment at [Shopware account](https://account.shopware.com). No company affiliation is required to start.

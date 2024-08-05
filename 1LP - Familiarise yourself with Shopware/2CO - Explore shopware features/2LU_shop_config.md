@@ -1,3 +1,12 @@
+---
+title: ""
+slug: ""
+description: ""
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Configure Shopware
 
 As the owner of an online store specializing in artisanal foods and beverages, you are excited to introduce a new product line called the "Gourmet Coffee Collection." This collection features a variety of premium coffee beans sourced from around the world, each offering unique flavors and aromas. To ensure a successful launch, you need to configure your Shopware store to highlight these new products, provide a seamless shopping experience, and attract coffee enthusiasts.

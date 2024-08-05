@@ -1,3 +1,12 @@
+---
+title: "Shopware distribution models"
+slug: "shopware-distribution-models"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Shopware distribution models
 
 Shopware provides self-hosted, SaaS and PaaS

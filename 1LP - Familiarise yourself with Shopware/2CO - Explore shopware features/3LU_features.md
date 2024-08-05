@@ -1,3 +1,12 @@
+---
+title: ""
+slug: ""
+description: ""
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Shopware features
 
 Trendify, a thriving online fashion retailer, aims to enhance its e-commerce capabilities to better manage its expanding inventory and improve customer engagement. They choose Shopware for its comprehensive features and flexibility.

@@ -1,3 +1,12 @@
+---
+title: 'Shopware, an Opensource platform'
+slug: "shopware-opensource-properaitory"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Shopware, an Opensource platform
 
 Shopware is an open-source eCommerce platform designed for businesses of all sizes, offering flexibility and scalability to create customized online stores. As an open-source solution, it provides access to its source code, allowing developers to tailor the platform to specific business needs, lets users freely inspect, modify, and enhance it per its licensing agreement. On the other hand, there are proprietary software taht is copyrighted property of an individual or company that limits its use, distribution, and modification by way of a proprietary license.

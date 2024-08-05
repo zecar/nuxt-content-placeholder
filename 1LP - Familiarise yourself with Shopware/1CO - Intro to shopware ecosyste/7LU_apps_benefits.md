@@ -1,3 +1,12 @@
+---
+title: 'Apps benefits'
+slug: "apps-benefits"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Why you should app ?
 
 TechGadz, a forward-thinking online retailer specializing in cutting-edge gadgets, is committed to enhancing its e-commerce platform to cater to tech enthusiasts worldwide. Having adopted Shopware, they are leveraging innovative apps to revolutionize their online store.

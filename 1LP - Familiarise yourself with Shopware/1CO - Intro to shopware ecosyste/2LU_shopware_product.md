@@ -1,3 +1,12 @@
+---
+title: "Why should you choose Shopware?"
+slug: "shopware-product"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Why should you choose Shopware
 
 Shopware is a cutting-edge e-commerce platform designed to empower businesses in building and managing online stores effortlessly. Originating in Germany, Shopware has gained global acclaim for its comprehensive features, user-friendly interface, and robust backend. Shopware stands out for these reasons:
