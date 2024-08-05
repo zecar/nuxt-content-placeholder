@@ -21,7 +21,7 @@ Visual Studio Code (VS Code) and iTerm2 are essential tools for development. VS 
 
 - Go to the [iTerm2 website](https://iterm2.com/downloads.html) > Navigate to the Downloads section > Download the latest stable version.
 
-![iterm2](./LP1-CO2-LU1/iterm2.jpg)
+![iterm2](../../assets/LP1/iterm2.jpg)
 
 - Extract the downloaded .zip file
 
@@ -33,7 +33,7 @@ Visual Studio Code (VS Code) and iTerm2 are essential tools for development. VS 
 
 The installation process for VS Code is similar to iTerm2. Download [VS Code](https://code.visualstudio.com/download) and follow the installation instructions.
 
-![vscode](./LP1-CO2-LU1/vscode.jpg)
+![vscode](../../assets/LP1/vscode.jpg)
  
 ## Installation of Shopware
 
@@ -51,7 +51,7 @@ Open your terminal and run the following command to install Nix:
 curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
 ```
 
-![nix](./LP1-CO2-LU1/nix.jpg)
+![nix](../../assets/LP1/nix.jpg)
 
 ### Installation of Cachix
 
@@ -151,7 +151,7 @@ devenv shell
 
 5. Next try to access your store using `localhost:8000` in your browser. This turns out to be an error page. This is a normal event as the shop has not been configured yet.
 
-![localhost-error](./LP1-CO2-LU1/localhost_error2.jpg).
+![localhost-error](../../assets/LP1/localhost_error2.jpg).
 
 So now navigate to `localhost:8000/admin`. The default username is admin and the password is shopware.
 
@@ -171,7 +171,7 @@ To configure sales channels:
 
 - Save the configuration and refresh the storefront to see the changes.
 
-![demostore](./LP1-CO2-LU1/demostore.jpg)
+![demostore](../../assets/LP1/demostore.jpg)
 
 Now the store is setup locally in your system. All that you could do next is to extend Shopware.
 

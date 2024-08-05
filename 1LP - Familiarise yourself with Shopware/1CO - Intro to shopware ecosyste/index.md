@@ -11,8 +11,6 @@ badge: {}
 
 You have chosen Shopware.  Congratulations! We are happy to welcome you as part of the community.
 
-You have been hired to work on Shopware and to make your start into the Shopware world as successful as possible, we will take you through the very basics. 
+To ensure a successful introduction to the world of Shopware, we'll guide you through the fundamental concepts and basics.
 
 So welcome to Shopware again and lets get started!
-
-If you are new to ecommerce world then we recommend you to start with refering to the [ecommerce terminology](../../assets/ecommerce_terminologies.md) list that can help you understand the concepts even better going forward.

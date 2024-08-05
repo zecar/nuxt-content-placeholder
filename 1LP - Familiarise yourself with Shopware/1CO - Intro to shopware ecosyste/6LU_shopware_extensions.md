@@ -1,16 +1,12 @@
 # Understanding Extensions in E-commerce Platforms
 
-**Extensions** are additional software components that enhance the functionality, appearance, and overall performance of an e-commerce platform. They allow store owners to customize their online stores to meet specific needs without requiring extensive custom development. Extensions can be broadly categorized into apps, themes, and plugins, each serving different purposes.
-
-### Types of Extensions
+**Extensions** are additional software components that enhance the functionality, appearance, and overall performance of an e-commerce platform. They allow store owners to customize their online stores to meet specific needs without requiring extensive custom development. Extensions can be broadly categorized into:
 
 1. **Apps**
 2. **Themes**
 3. **Plugins**
 
----
-
-### Apps
+## Apps
 
 **Definition**:  
 Apps are software applications designed to add specific functionalities to an online store. They integrate with the platform to extend its capabilities in various areas.
@@ -26,9 +22,11 @@ Apps are software applications designed to add specific functionalities to an on
 - **Analytics Apps**: Advanced dashboards, sales reports, customer behavior tracking.
 - **Customer Service Apps**: Live chat, helpdesk integration.
 
----
+**Benefits**:
+  - Comprehensive solutions integrating deeply with store operations.
+  - Enhance overall functionality and efficiency.
 
-### Themes
+## Themes
 
 **Definition**:  
 Themes are collections of templates and styles that define the visual appearance of an online store. They control the layout, color scheme, typography, and overall design of the store's frontend.
@@ -43,9 +41,11 @@ Themes are collections of templates and styles that define the visual appearance
 - **Custom Themes**: Tailor-made themes designed specifically for a business.
 - **Responsive Themes**: Themes optimized for viewing on various devices like desktops, tablets, and smartphones.
 
----
+**Benefits**:
+  - Improve visual appeal and user experience.
+  - Ensure consistency and professionalism in design.
 
-### Plugins
+## Plugins
 
 **Definition**:  
 Plugins are software components that add specific features or functionalities to an e-commerce platform. They focus on more granular enhancements or integrations within the platform.
@@ -61,9 +61,11 @@ Plugins are software components that add specific features or functionalities to
 - **SEO Plugins**: Manage meta tags, generate sitemaps, improve page load speeds.
 - **Security Plugins**: Two-factor authentication, firewall protection, regular security scans.
 
----
+**Benefits**:
+  - Offer flexibility and customization without altering the core platform.
+  - Allow for incremental improvements and feature additions.
 
-### Key Differences
+## Key Differences
 
 - **Scope**: 
   - **Apps** provide broader functionality or service integrations.
@@ -80,20 +82,6 @@ Plugins are software components that add specific features or functionalities to
   - **Plugins**: Perfect for incremental enhancements like new payment methods, improved SEO.
   - **Themes**: Overhaul the store’s design, ensuring it aligns with the brand’s identity and provides a great user experience.
 
----
+By leveraging apps, themes, and plugins store owners can create a highly customized, efficient, and visually appealing online store that meets their specific business needs and enhances the shopping experience for their customers.
 
-### Benefits of Each
-
-- **Apps**:
-  - Comprehensive solutions integrating deeply with store operations.
-  - Enhance overall functionality and efficiency.
-
-- **Themes**:
-  - Improve visual appeal and user experience.
-  - Ensure consistency and professionalism in design.
-
-- **Plugins**:
-  - Offer flexibility and customization without altering the core platform.
-  - Allow for incremental improvements and feature additions.
-
-By leveraging apps, themes, and plugins, store owners can create a highly customized, efficient, and visually appealing online store that meets their specific business needs and enhances the shopping experience for their customers.
+Aditionally, its recommended to use extension medium as apps. Lets see why in more detail in next unit.
