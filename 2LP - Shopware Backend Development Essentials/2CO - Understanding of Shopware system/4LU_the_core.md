@@ -1,3 +1,12 @@
+---
+title: "The core"
+slug: "the-core"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: ["Micha Hobert"]
+visibility: "public"
+---
+
 The Shopware 6 Core is the heart of the Shopware system. It includes the essential components and services that power both the frontend and backend of the platform.
 
 ![https://images.ctfassets.net/nqzs8zsepqpi/59a52424-a89e-4c9e-8151-0795aed3fe22/0b3f2a05a04e19bb56319e86e21c9ce6/Blog_Thumbnail__api-grafik-new?fm=jpg&w=430&q=80](https://images.ctfassets.net/nqzs8zsepqpi/59a52424-a89e-4c9e-8151-0795aed3fe22/0b3f2a05a04e19bb56319e86e21c9ce6/Blog_Thumbnail__api-grafik-new?fm=jpg&w=430&q=80)

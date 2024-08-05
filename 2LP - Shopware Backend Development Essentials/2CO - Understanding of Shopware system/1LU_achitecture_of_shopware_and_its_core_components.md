@@ -1,3 +1,14 @@
+---
+title: "Shopware architecture and its core components"
+slug: "shopware-architecture-and-its-core-components"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: ["Micha Hobert"]
+visibility: "public"
+---
+
+
+
 Shopware is a highly flexible, powerful, and customizable eCommerce platform built on a technical stack that includes PHP, Elasticsearch, MySQL, and more. It follows a modular architecture, which means it's composed of several core components that work together to provide a comprehensive eCommerce solution. 
 
 Here are some of the key components:

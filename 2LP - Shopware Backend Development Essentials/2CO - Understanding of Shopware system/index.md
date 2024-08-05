@@ -1,6 +1,10 @@
 ---
-title: 'Understanding Shopware 6'
-author: 'Micha Hobert'
+title: "Understanding of Shopware system"
+slug: "understanding-of-shopware-system"
+description: "This course is a fundamental for developers who have no idea about Shopware system."
+icon: "/public/icon/foo.svg?"
+visibility: "public"
+badge: {}
 ---
 
 # Introduction

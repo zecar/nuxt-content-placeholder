@@ -1,6 +1,10 @@
 ---
-title: 'Configuration and settings'
-author: 'Micha Hobert'
+title: "Configuration and settings"
+slug: "configuration-and-settings"
+description: "This course will guide you through the configuration of your Shopware installation from a developer's perspective."
+icon: "/public/icon/foo.svg?"
+visibility: "public"
+badge: {}
 ---
 
 # Introduction

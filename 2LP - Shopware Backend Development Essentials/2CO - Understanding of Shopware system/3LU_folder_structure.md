@@ -1,3 +1,12 @@
+---
+title: "Folder structure"
+slug: "folder-structure"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: ["Micha Hobert"]
+visibility: "public"
+---
+
 Shopware 6 follows a specific directory structure that is important to understand for development. Here's a brief overview of the main directories and their purposes:
 
 

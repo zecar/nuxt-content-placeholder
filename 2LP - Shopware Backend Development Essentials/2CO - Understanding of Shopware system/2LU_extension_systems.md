@@ -1,3 +1,12 @@
+---
+title: "Extension Systems"
+slug: "extension-systems"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: ["Micha Hobert"]
+visibility: "public"
+---
+
 As mentioned before, Shopware provides two main extension systems: the Plugin system and the App system. Both systems allow developers to extend the functionality of Shopware, but they are used in different scenarios and have different characteristics.
 
 **Plugin System**

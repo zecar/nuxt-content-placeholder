@@ -1,6 +1,10 @@
 ---
-title: 'Testing and Quality Assurance'
-author: 'Micha Hobert'
+title: "Testing and Quality Assurance"
+slug: "testing-and-quality-assurance"
+description: "This course will guide you through the testing and quality assurance of your Shopware installation from a developer's perspective."
+icon: "/public/icon/foo.svg?"
+visibility: "public"
+badge: {}
 ---
 
 # Introduction
