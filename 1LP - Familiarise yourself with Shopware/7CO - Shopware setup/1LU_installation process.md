@@ -1,7 +1,13 @@
 ---
-title: 'Installation of Shopware on MacOS'
-author: 'Su'
+title: ""
+slug: ""
+description: ""
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
 ---
+
+
 
 # Introduction
 

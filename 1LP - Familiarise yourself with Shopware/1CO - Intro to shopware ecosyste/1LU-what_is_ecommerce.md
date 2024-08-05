@@ -1,3 +1,12 @@
+---
+title: "What is ecommerce?"
+slug: "what-is-ecommerce"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Introduction
 
 Imagine you have newly joined a small startup company as a developer. Your team has a task to launch an ecommerce store for a client, TechWorld. 

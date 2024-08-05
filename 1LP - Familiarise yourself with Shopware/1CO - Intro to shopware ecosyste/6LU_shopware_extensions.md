@@ -1,3 +1,12 @@
+---
+title: 'Shopware extensions'
+slug: "shopware-extensions"
+description: "Max 256 characters of description, pure-text"
+icon: "" # svg, png? dark mode?
+authors: []
+visibility: "public"
+---
+
 # Understanding Extensions in E-commerce Platforms
 
 **Extensions** are additional software components that enhance the functionality, appearance, and overall performance of an e-commerce platform. They allow store owners to customize their online stores to meet specific needs without requiring extensive custom development. Extensions can be broadly categorized into apps, themes, and plugins, each serving different purposes.
