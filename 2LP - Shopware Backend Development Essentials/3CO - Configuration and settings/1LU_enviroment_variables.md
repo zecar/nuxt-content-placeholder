@@ -1,7 +1,7 @@
 ---
 title: "Environment variables"
 slug: "enviroment-variables"
-description: "Max 256 characters of description, pure-text"
+description: "Learning unit about all environment variables"
 icon: "" # svg, png? dark mode?
 authors: ["Micha Hobert"]
 visibility: "public"
