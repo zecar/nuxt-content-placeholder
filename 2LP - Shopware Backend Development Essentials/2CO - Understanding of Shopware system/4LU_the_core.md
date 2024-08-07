@@ -2,10 +2,18 @@
 title: "The core"
 slug: "the-core"
 description: "Max 256 characters of description, pure-text"
-icon: "" # svg, png? dark mode?
+icon: ""
 authors: ["Micha Hobert"]
 visibility: "public"
 ---
+
+# Learning Objectives
+
+By the end of this unit, you will be able to:
+
+- Know the key components of the Shopware 6 Core
+- Understand which directories are writable and which are not
+- Recognize where to place your custom code
 
 The Shopware 6 Core is the heart of the Shopware system. It includes the essential components and services that power both the frontend and backend of the platform.
 

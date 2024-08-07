@@ -2,19 +2,31 @@
 title: "Shopware architecture and its core components"
 slug: "shopware-architecture-and-its-core-components"
 description: "Max 256 characters of description, pure-text"
-icon: "" # svg, png? dark mode?
+icon: ""
 authors: ["Micha Hobert"]
 visibility: "public"
 ---
 
+# Learning Objectives
 
+By the end of this unit, you will be able to:
+
+- Know the core components of the Shopware system
+- Understand the architecture of Shopware
+- Recognize the role of each component in the system
 
 Shopware is a highly flexible, powerful, and customizable eCommerce platform built on a technical stack that includes PHP, Elasticsearch, MySQL, and more. It follows a modular architecture, which means it's composed of several core components that work together to provide a comprehensive eCommerce solution. 
 
-Here are some of the key components:
+All those components are connected, and interact with each other, to provide a seamless shopping experience for customers and an easy-to-use development environment for developers.
+
+Here is a visual overview of the Shopware architecture:
+
+![img](https://images.ctfassets.net/nqzs8zsepqpi/59a52424-a89e-4c9e-8151-0795aed3fe22/0b3f2a05a04e19bb56319e86e21c9ce6/Blog_Thumbnail__api-grafik-new?fm=jpg&w=430&q=80)
+
+Let's dive into the core components of the Shopware system and check them out one by one:
 
 ## Core
-This is the heart of the Shopware system. It includes the essential components and services that power both the frontend and backend of the platform. It's built using Symfony, a popular PHP framework, and follows the principles of domain-driven design (DDD).
+This is the heart of the Shopware system. It includes the essential classes and services that power both the frontend and backend of the platform. It's built using Symfony, a popular PHP framework, and follows the principles of domain-driven design (DDD).
 
 ## Frontend
 This is the part of Shopware that customers interact with. It includes product listings, shopping cart functionality, and the checkout process. The frontend is built using a responsive design to ensure a seamless shopping experience across various devices. You can either use the Storefront that comes with the Shopware or build your own frontend using the StoreApi provided by Shopware.

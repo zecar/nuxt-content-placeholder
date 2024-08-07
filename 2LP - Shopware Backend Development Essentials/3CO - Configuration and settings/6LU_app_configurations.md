@@ -2,7 +2,7 @@
 title: "Plugin base structure"
 slug: "plugin-base-structure"
 description: "Learning unit about basic plugin structure"
-icon: "" # svg, png? dark mode?
+icon: ""
 authors: ["Micha Hobert"]
 visibility: "public"
 ---

@@ -2,10 +2,19 @@
 title: "Folder structure"
 slug: "folder-structure"
 description: "Max 256 characters of description, pure-text"
-icon: "" # svg, png? dark mode?
+icon: ""
 authors: ["Micha Hobert"]
 visibility: "public"
 ---
+
+# Learning Objectives
+
+By the end of this unit, you will be able to:
+
+- Know the main directories of a Shopware 6 project
+- Understand which directories are writable and which are not
+- Recognize where to place your custom code
+
 
 Shopware 6 follows a specific directory structure that is important to understand for development. Here's a brief overview of the main directories and their purposes:
 
