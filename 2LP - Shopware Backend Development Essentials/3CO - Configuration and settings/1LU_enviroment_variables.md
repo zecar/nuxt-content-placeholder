@@ -122,3 +122,25 @@ LOCK_DSN=flock
 # Redis store
 LOCK_DSN=redis://localhost
 ```
+
+
+Questions:
+
+1. What is the purpose of the .env file?
+    - [ ] To store sensitive information like database credentials, API keys, etc.
+    - [ ] To store the default values for the environment variables
+    - [ ] To store the values for the environment variables
+    - [ ] To store the values for the environment variables and commit them to the repository
+
+2. What does the Symfony Messenger component do?
+    - [ ] Send emails from the application
+    - [ ] Send messages between different parts of the application
+    - [ ] Handle concurrently running processes
+    - [ ] Send messages to a message queue
+
+3. When should I use Elasticsearch / OpenSearch?
+    - [ ] Always
+    - [ ] Only if you have a lot of content that can be cached
+    - [ ] Only if you have a high volume of orders
+    - [ ] Only if you need powerful and flexible search capabilities
+
