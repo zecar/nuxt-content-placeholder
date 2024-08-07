@@ -23,32 +23,29 @@ You can use multiple .env files for different environments. For example, you can
 # Mandatory environment variables
 
 ```text
-###> shopware/core ###
 APP_ENV=prod
 APP_URL=http://127.0.0.1:8000
 APP_SECRET=a96d5c315965b3e4861574e99dbc323e
 INSTANCE_ID=0992fcb3ed7620772a383c586b80a714
 BLUE_GREEN_DEPLOYMENT=0
 DATABASE_URL=mysql://root:root@localhost/shopware
-# With Shopware 6.4.17.0 the MAILER_DSN variable will be used in this template instead of MAILER_URL
-MAILER_URL=null://null
-###< shopware/core ###
 
+```
 
-###> symfony/lock ###
-# Choose one of the stores below
-# postgresql+advisory://db_user:db_password@localhost/db_name
-LOCK_DSN=flock
-###< symfony/lock ###
+## Storefront
 
+The `STOREFRONT_PROXY_URL` environment variable is used to define the URL of the Storefront proxy. This is the URL that the Storefront uses to communicate with the backend. This is typically the URL of the backend server.
 
-###> shopware/storefront ###
+If your shop has a lot of content that can be cached, you can enable the HTTP cache by setting the `SHOPWARE_HTTP_CACHE_ENABLED` environment variable to `1`. This will cache the content of the shop and serve it to the users without having to regenerate it every time.
+
+The `SHOPWARE_HTTP_DEFAULT_TTL` environment variable is used to define the default time-to-live (TTL) of the cache. This is the amount of time that the content will be cached before it is regenerated. The default value is 7200 seconds (2 hours).
+
+```text
 STOREFRONT_PROXY_URL=http://localhost
 SHOPWARE_HTTP_CACHE_ENABLED=1
 SHOPWARE_HTTP_DEFAULT_TTL=7200
-###< shopware/storefront ###
+``` 
 
-```
 
 ## Elasticsearch / Opensearch
 
@@ -114,3 +111,14 @@ MAILER_DSN=smtp://username:password@smtp.gmail.com:587?encryption=tls&auth_mode=
 ```
 
 ## Symfony Lock
+
+The Symfony Lock component is used to handle concurrently running processes. It can be configured to use different stores to store locks. The default store is the `flock` store, which stores locks in the filesystem. This is a good choice for development environments, as it does not require any additional setup.
+
+Depending on your filesystem / hardware, this is not the best choice for production environments. If you are using a cluster, you should use the `redis` store, as it is fast and reliable. All available stores can be found in the [Symfony documentation](https://symfony.com/doc/current/components/lock.html#available-stores).
+
+```text
+# Default store
+LOCK_DSN=flock
+# Redis store
+LOCK_DSN=redis://localhost
+```
